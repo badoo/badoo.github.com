@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://badoo.github.com</id>
+    <updated>2012-04-10T00:41:53+04:00</updated>
+    <title>Badoo PEAR Channel Latest Releases</title>
+    <link href="http://badoo.github.com/feed.xml" rel="self" />
+    <author>
+        <name>http://badoo.github.com</name>
+    </author>
+
+
+</feed>

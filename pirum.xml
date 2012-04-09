@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+  <name>badoo.github.com</name>
+  <summary>Badoo PEAR Channel</summary>
+  <alias>badoo</alias>
+  <url>http://badoo.github.com</url>
+</server>
