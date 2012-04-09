@@ -1,4 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <f xmlns="http://pear.php.net/dtd/rest.categorypackageinfo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.categorypackageinfo     http://pear.php.net/dtd/rest.categorypackageinfo.xsd">
+    <pi>
+        <p>
+            <n>PHPUnit_TestListener_TeamCity</n>
+            <c>badoo.github.com</c>
+            <ca xlink:href="/rest/c/Default">Default</ca>
+            <l>MIT</l>
+            <s>Extension for integration PHPUnit and TeamCity</s>
+            <d>Based on PHPUnit's TestListner and TeamCity's Service Messages providing realtime test reporting during build process.</d>
+            <r xlink:href="/rest/r/phpunit_testlistener_teamcity" />
+        </p>
 
+        <a>
+            <r>
+                <v>0.0.1</v>
+                <s>alpha</s>
+            </r>
+
+        </a>
+
+        <deps>
+            <v>0.0.1</v>
+            <d>a:1:{s:8:"required";a:2:{s:3:"php";a:1:{s:3:"min";s:5:"5.0.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.4.0";}}}</d>
+        </deps>
+
+    </pi>
 </f>
