@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://badoo.github.com</id>
-    <updated>2012-04-10T01:06:34+04:00</updated>
+    <updated>2012-04-18T20:43:03+04:00</updated>
     <title>Badoo PEAR Channel Latest Releases</title>
     <link href="http://badoo.github.com/feed.xml" rel="self" />
     <author>
@@ -9,6 +9,19 @@
     </author>
 
     <entry>
+        <title>PHPUnit_TestListener_TeamCity 0.1.0 (beta)</title>
+        <link href="http://badoo.github.com/get/PHPUnit_TestListener_TeamCity-0.1.0.tgz" />
+        <id>http://badoo.github.com/get/PHPUnit_TestListener_TeamCity-0.1.0.tgz</id>
+        <author>
+            <name>alexanderilyin</name>
+        </author>
+        <updated>2012-04-18T16:40:47+04:00</updated>
+        <content>
+            
+Updates after internal testing
+ 
+        </content>
+    </entry>    <entry>
         <title>PHPUnit_TestListener_TeamCity 0.0.1 (alpha)</title>
         <link href="http://badoo.github.com/get/PHPUnit_TestListener_TeamCity-0.0.1.tgz" />
         <id>http://badoo.github.com/get/PHPUnit_TestListener_TeamCity-0.0.1.tgz</id>

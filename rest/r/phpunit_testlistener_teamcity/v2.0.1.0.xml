@@ -2,19 +2,19 @@
 <r xmlns="http://pear.php.net/dtd/rest.release2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release2 http://pear.php.net/dtd/rest.release2.xsd">
     <p xlink:href="/rest/p/phpunit_testlistener_teamcity">PHPUnit_TestListener_TeamCity</p>
     <c>badoo.github.com</c>
-    <v>0.0.1</v>
-    <a>0.0.1</a>
+    <v>0.1.0</v>
+    <a>0.1.0</a>
     <mp>5.0.0</mp>
-    <st>alpha</st>
+    <st>beta</st>
     <l>MIT</l>
     <m>alexanderilyin</m>
     <s>PHPUnit &amp;amp; TeamCity Integration</s>
     <d>Based on PHPUnit's TestListner and TeamCity's Service Messages providing realtime test reporting during build process.</d>
-    <da>2012-04-09 21:05:24</da>
+    <da>2012-04-18 16:40:47</da>
     <n>
-Initial release.
+Updates after internal testing
  </n>
-    <f>1739</f>
-    <g>http://badoo.github.com/get/PHPUnit_TestListener_TeamCity-0.0.1</g>
-    <x xlink:href="package.0.0.1.xml"/>
+    <f>1978</f>
+    <g>http://badoo.github.com/get/PHPUnit_TestListener_TeamCity-0.1.0</g>
+    <x xlink:href="package.0.1.0.xml"/>
 </r>
