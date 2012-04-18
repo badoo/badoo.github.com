@@ -8,7 +8,7 @@
     <st>alpha</st>
     <l>MIT</l>
     <m>alexanderilyin</m>
-    <s>PHPUnit &amp;amp; TeamCity Integration</s>
+    <s>PHPUnit and TeamCity Integration</s>
     <d>Based on PHPUnit's TestListner and TeamCity's Service Messages providing realtime test reporting during build process.</d>
     <da>2012-04-09 21:05:24</da>
     <n>

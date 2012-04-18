@@ -2,7 +2,7 @@
 <package packagerversion="1.9.4" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0         http://pear.php.net/dtd/tasks-1.0.xsd http://pear.php.net/dtd/package-2.0 http://pear.php.net/dtd/package-2.0.xsd">
  <name>PHPUnit_TestListener_TeamCity</name>
  <channel>badoo.github.com</channel>
- <summary>PHPUnit &amp;amp; TeamCity Integration</summary>
+ <summary>PHPUnit and TeamCity Integration</summary>
  <description>Based on PHPUnit&apos;s TestListner and TeamCity&apos;s Service Messages providing realtime test reporting during build process.</description>
  <lead>
   <name>Alexander Ilyin</name>

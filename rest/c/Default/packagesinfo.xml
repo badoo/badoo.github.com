@@ -6,7 +6,7 @@
             <c>badoo.github.com</c>
             <ca xlink:href="/rest/c/Default">Default</ca>
             <l>MIT</l>
-            <s>PHPUnit &amp;amp; TeamCity Integration</s>
+            <s>PHPUnit and TeamCity Integration</s>
             <d>Based on PHPUnit's TestListner and TeamCity's Service Messages providing realtime test reporting during build process.</d>
             <r xlink:href="/rest/r/phpunit_testlistener_teamcity" />
         </p>
